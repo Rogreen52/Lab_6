@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LB4</string>
+    <string name="add_note">Add Note</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="note_title_hint">Enter Note Title</string>
+    <string name="note_content_hint">Enter Note Content</string>
+    <string name="save_note_button">Save Note</string>
+    <string name="note_deleted">Note Deleted</string>
+    <string name="empty_note_warning">Note fields cannot be empty!</string>
+</resources>
